@@ -8,6 +8,7 @@ sites:
     url: https://rtuitlab.dev
   - name: Olympiad
     url: https://olympiad.rtuitlab.ru
+    icon: https://olympiad.rtuitlab.ru/favicon.svg
   - name: GeoHelper
     url: https://geohelper.rtuitlab.dev
 assignees: # Users to assign downtime issues (optional)
