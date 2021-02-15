@@ -1,4 +1,4 @@
-# [📈 Live Status](https://RTUITLab.github.io/RTUITLab/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://RTUITLab.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [RTU IT Lab](https://rtuitlab.dev), powered by [Upptime](https://github.com/upptime/upptime).
 
