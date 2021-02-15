@@ -8,6 +8,8 @@ sites:
     url: https://rtuitlab.dev
   - name: Olympiad
     url: https://olympiad.rtuitlab.ru
+  - name: GeoHelper
+    url: https://geohelper.rtuitlab.dev
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
