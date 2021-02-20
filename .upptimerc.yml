@@ -21,7 +21,7 @@ status-website:
 #   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: RTUITLab Uptime Service
-  themeUrl: https://cdn.jsdelivr.net/gh/rtuitlab/upptime/assets/dark-theme.css
+  themeUrl: https://cdn.jsdelivr.net/gh/rtuitlab/upptime@1.1.0/assets/dark-theme.css
   introTitle: "**RTUITLab Uptime Service** shows live status of apps hosted by RTUITLab"
   introMessage: ""
   navbar:
