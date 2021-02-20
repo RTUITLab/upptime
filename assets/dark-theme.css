@@ -25,7 +25,13 @@
   /* --graph-filter: brightness(0.35) sepia(1) hue-rotate(88deg) saturate(8); */
 }
 
+@media (max-width: 500px) {
+  .graph {
+    -webkit-mask-image: linear-gradient(to left, black, transparent);
+    mask-image: linear-gradient(to left, black, transparent);
+  }
+}
+
 .graph {
-  -webkit-mask-image: linear-gradient(to left, black, transparent);
-  mask-image: linear-gradient(to left, black, transparent);
+  transition: .5s;
 }
