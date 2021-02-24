@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Landing
     url: https://rtuitlab.dev
+  - name: ITLab
+    url: https://manage.rtuitlab.dev
   - name: Olympiad
     url: https://olympiad.rtuitlab.ru
     icon: https://olympiad.rtuitlab.ru/favicon.svg
