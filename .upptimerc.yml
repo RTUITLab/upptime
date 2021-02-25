@@ -17,6 +17,8 @@ sites:
   - name: StuDo
     url: https://studo.rtuitlab.dev
     icon: https://studo.rtuitlab.dev/favicon.ico
+    assignees:
+      - Suput
 assignees: # Users to assign downtime issues (optional)
   - CAPCHIK
 status-website:
