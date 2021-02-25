@@ -14,6 +14,9 @@ sites:
   - name: GeoHelper
     url: https://geohelper.rtuitlab.dev
     icon: https://geohelper.rtuitlab.dev/static/favicon-32x32.png
+  - name: StuDo
+    url: https://studo.rtuitlab.dev
+    icon: https://studo.rtuitlab.dev/favicon.ico
 assignees: # Users to assign downtime issues (optional)
   - CAPCHIK
 status-website:
