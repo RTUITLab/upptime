@@ -4,18 +4,20 @@
     "url": "https://rtuitlab.dev",
     "icon": "https://favicons.githubusercontent.com/rtuitlab.dev",
     "slug": "landing",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 638,
     "timeDay": 573,
     "timeWeek": 657,
     "timeMonth": 638,
     "timeYear": 638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 2
+    }
   },
   {
     "name": "ITLab",
@@ -59,18 +61,18 @@
     "icon": "https://geohelper.rtuitlab.dev/static/favicon-32x32.png",
     "slug": "geo-helper",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 662,
     "timeDay": 580,
     "timeWeek": 658,
     "timeMonth": 662,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2021-03-02": 0
+      "2021-03-02": 18
     }
   },
   {
@@ -78,9 +80,9 @@
     "url": "https://studo.rtuitlab.dev",
     "icon": "https://studo.rtuitlab.dev/favicon.ico",
     "slug": "stu-do",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +91,8 @@
     "timeWeek": 640,
     "timeMonth": 640,
     "timeYear": 640,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   }
 ]
