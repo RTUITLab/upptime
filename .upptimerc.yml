@@ -9,8 +9,8 @@ sites:
   - name: ITLab
     url: https://manage.rtuitlab.dev
   - name: Olympiad
-    url: https://olympiad.rtuitlab.ru
-    icon: https://olympiad.rtuitlab.ru/favicon.svg
+    url: https://olympiad.rtuitlab.dev
+    icon: https://olympiad.rtuitlab.dev/favicon.svg
   - name: GeoHelper
     url: https://geohelper.rtuitlab.dev
     icon: https://geohelper.rtuitlab.dev/static/favicon-32x32.png
