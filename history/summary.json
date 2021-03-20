@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 643,
+    "time": 644,
     "timeDay": 691,
-    "timeWeek": 650,
+    "timeWeek": 653,
     "timeMonth": 655,
-    "timeYear": 643,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2021-03-02": 37
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 618,
-    "timeDay": 634,
-    "timeWeek": 614,
+    "timeDay": 615,
+    "timeWeek": 615,
     "timeMonth": 618,
     "timeYear": 618,
     "dailyMinutesDown": {}
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 709,
-    "timeDay": 713,
-    "timeWeek": 641,
+    "timeDay": 738,
+    "timeWeek": 664,
     "timeMonth": 718,
     "timeYear": 709,
     "dailyMinutesDown": {}
@@ -61,15 +61,15 @@
     "icon": "https://geohelper.rtuitlab.dev/static/favicon-32x32.png",
     "slug": "geo-helper",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 640,
-    "timeDay": 644,
-    "timeWeek": 613,
-    "timeMonth": 655,
+    "timeDay": 637,
+    "timeWeek": 622,
+    "timeMonth": 654,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2021-03-02": 49
@@ -87,8 +87,8 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 610,
-    "timeDay": 582,
-    "timeWeek": 596,
+    "timeDay": 615,
+    "timeWeek": 604,
     "timeMonth": 610,
     "timeYear": 610,
     "dailyMinutesDown": {
