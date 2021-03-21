@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 644,
-    "timeDay": 691,
-    "timeWeek": 653,
-    "timeMonth": 655,
-    "timeYear": 644,
+    "time": 643,
+    "timeDay": 605,
+    "timeWeek": 655,
+    "timeMonth": 656,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2021-03-02": 37
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 618,
-    "timeDay": 615,
-    "timeWeek": 615,
+    "timeDay": 626,
+    "timeWeek": 619,
     "timeMonth": 618,
     "timeYear": 618,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 738,
-    "timeWeek": 664,
-    "timeMonth": 718,
-    "timeYear": 709,
+    "time": 707,
+    "timeDay": 563,
+    "timeWeek": 655,
+    "timeMonth": 715,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 640,
-    "timeDay": 637,
-    "timeWeek": 622,
-    "timeMonth": 654,
+    "timeDay": 615,
+    "timeWeek": 618,
+    "timeMonth": 648,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2021-03-02": 49
@@ -81,16 +81,16 @@
     "icon": "https://studo.rtuitlab.dev/favicon.ico",
     "slug": "stu-do",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 610,
-    "timeDay": 615,
-    "timeWeek": 604,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 609,
+    "timeDay": 568,
+    "timeWeek": 606,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2021-03-02": 31
     }
