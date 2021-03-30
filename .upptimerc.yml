@@ -20,7 +20,7 @@ sites:
     assignees:
       - Suput
   - name: Schedule
-    url: https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups
+    url: https://schedule-rtu.rtuitlab.dev/apispec_1.json
     assignees:
       - Nekolya
 assignees: # Users to assign downtime issues (optional)
