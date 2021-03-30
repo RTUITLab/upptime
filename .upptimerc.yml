@@ -19,6 +19,10 @@ sites:
     icon: https://studo.rtuitlab.dev/favicon.ico
     assignees:
       - Suput
+  - name: Schedule
+    url: https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups
+    assignees:
+      - Nekolya
 assignees: # Users to assign downtime issues (optional)
   - CAPCHIK
 status-website:
