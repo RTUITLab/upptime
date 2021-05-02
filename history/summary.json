@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 675,
-    "timeDay": 639,
-    "timeWeek": 770,
-    "timeMonth": 745,
+    "timeDay": 658,
+    "timeWeek": 723,
+    "timeMonth": 736,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2021-03-02": 37
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 653,
-    "timeDay": 586,
-    "timeWeek": 716,
-    "timeMonth": 702,
-    "timeYear": 653,
+    "time": 654,
+    "timeDay": 702,
+    "timeWeek": 662,
+    "timeMonth": 694,
+    "timeYear": 654,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 705,
-    "timeDay": 692,
-    "timeWeek": 712,
-    "timeMonth": 738,
+    "timeDay": 618,
+    "timeWeek": 672,
+    "timeMonth": 731,
     "timeYear": 705,
     "dailyMinutesDown": {}
   },
@@ -61,15 +61,15 @@
     "icon": "https://geohelper.rtuitlab.dev/static/favicon-32x32.png",
     "slug": "geo-helper",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 641,
-    "timeDay": 783,
-    "timeWeek": 695,
-    "timeMonth": 663,
+    "timeDay": 633,
+    "timeWeek": 668,
+    "timeMonth": 655,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2021-03-02": 49
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 633,
-    "timeDay": 578,
-    "timeWeek": 655,
-    "timeMonth": 669,
+    "timeDay": 631,
+    "timeWeek": 625,
+    "timeMonth": 665,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2021-03-02": 31
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 642,
-    "timeWeek": 761,
-    "timeMonth": 707,
-    "timeYear": 685,
+    "time": 684,
+    "timeDay": 617,
+    "timeWeek": 735,
+    "timeMonth": 699,
+    "timeYear": 684,
     "dailyMinutesDown": {}
   }
 ]
