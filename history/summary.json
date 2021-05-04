@@ -60,17 +60,17 @@
     "url": "https://geohelper.rtuitlab.dev",
     "icon": "https://geohelper.rtuitlab.dev/static/favicon-32x32.png",
     "slug": "geo-helper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 641,
-    "timeDay": 634,
-    "timeWeek": 668,
-    "timeMonth": 658,
-    "timeYear": 641,
+    "time": 640,
+    "timeDay": 616,
+    "timeWeek": 659,
+    "timeMonth": 656,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2021-03-02": 49
     }
