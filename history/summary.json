@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 693,
-    "timeDay": 985,
-    "timeWeek": 870,
-    "timeMonth": 755,
+    "timeDay": 634,
+    "timeWeek": 857,
+    "timeMonth": 754,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2021-03-02": 37
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 2323,
-    "timeWeek": 1295,
-    "timeMonth": 846,
-    "timeYear": 711,
+    "time": 754,
+    "timeDay": 3898,
+    "timeWeek": 1822,
+    "timeMonth": 997,
+    "timeYear": 754,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 2359,
-    "timeWeek": 1314,
-    "timeMonth": 845,
-    "timeYear": 736,
+    "time": 768,
+    "timeDay": 3910,
+    "timeWeek": 1846,
+    "timeMonth": 993,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 655,
-    "timeDay": 891,
-    "timeWeek": 766,
-    "timeMonth": 693,
-    "timeYear": 655,
+    "time": 692,
+    "timeDay": 5664,
+    "timeWeek": 1328,
+    "timeMonth": 830,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2021-03-02": 49
     }
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 652,
-    "timeDay": 710,
-    "timeWeek": 743,
+    "timeDay": 626,
+    "timeWeek": 747,
     "timeMonth": 693,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -100,17 +100,17 @@
     "url": "https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups",
     "icon": "https://favicons.githubusercontent.com/schedule-rtu.rtuitlab.dev",
     "slug": "schedule",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 730,
-    "timeWeek": 744,
-    "timeMonth": 736,
-    "timeYear": 711,
+    "time": 709,
+    "timeDay": 631,
+    "timeWeek": 740,
+    "timeMonth": 732,
+    "timeYear": 709,
     "dailyMinutesDown": {}
   }
 ]
