@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 693,
-    "timeDay": 634,
-    "timeWeek": 857,
-    "timeMonth": 754,
-    "timeYear": 693,
+    "time": 694,
+    "timeDay": 915,
+    "timeWeek": 856,
+    "timeMonth": 763,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2021-03-02": 37
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 3898,
-    "timeWeek": 1822,
-    "timeMonth": 997,
-    "timeYear": 754,
+    "time": 755,
+    "timeDay": 872,
+    "timeWeek": 1825,
+    "timeMonth": 1005,
+    "timeYear": 755,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 3910,
-    "timeWeek": 1846,
-    "timeMonth": 993,
-    "timeYear": 768,
+    "time": 769,
+    "timeDay": 916,
+    "timeWeek": 1852,
+    "timeMonth": 1002,
+    "timeYear": 769,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 762,
-    "timeDay": 5635,
-    "timeWeek": 2108,
-    "timeMonth": 1076,
-    "timeYear": 762,
+    "time": 763,
+    "timeDay": 4026,
+    "timeWeek": 2102,
+    "timeMonth": 1081,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2021-03-02": 49
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 652,
-    "timeDay": 626,
-    "timeWeek": 747,
-    "timeMonth": 693,
-    "timeYear": 652,
+    "time": 654,
+    "timeDay": 916,
+    "timeWeek": 757,
+    "timeMonth": 701,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2021-03-02": 31
     }
@@ -100,17 +100,17 @@
     "url": "https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups",
     "icon": "https://favicons.githubusercontent.com/schedule-rtu.rtuitlab.dev",
     "slug": "schedule",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 640,
-    "timeWeek": 733,
-    "timeMonth": 730,
-    "timeYear": 709,
+    "time": 712,
+    "timeDay": 812,
+    "timeWeek": 745,
+    "timeMonth": 738,
+    "timeYear": 712,
     "dailyMinutesDown": {}
   }
 ]
