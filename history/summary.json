@@ -4,17 +4,17 @@
     "url": "https://rtuitlab.dev",
     "icon": "https://favicons.githubusercontent.com/rtuitlab.dev",
     "slug": "landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 696,
-    "timeDay": 875,
-    "timeWeek": 863,
-    "timeMonth": 767,
-    "timeYear": 696,
+    "time": 697,
+    "timeDay": 796,
+    "timeWeek": 845,
+    "timeMonth": 765,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2021-03-02": 37
     }
