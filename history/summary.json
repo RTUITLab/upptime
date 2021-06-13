@@ -100,17 +100,17 @@
     "url": "https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups",
     "icon": "https://favicons.githubusercontent.com/schedule-rtu.rtuitlab.dev",
     "slug": "schedule",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 922,
-    "timeWeek": 740,
+    "time": 720,
+    "timeDay": 878,
+    "timeWeek": 744,
     "timeMonth": 759,
-    "timeYear": 719,
+    "timeYear": 720,
     "dailyMinutesDown": {}
   }
 ]
