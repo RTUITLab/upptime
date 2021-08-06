@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 707,
-    "timeDay": 632,
-    "timeWeek": 753,
-    "timeMonth": 734,
-    "timeYear": 707,
+    "time": 711,
+    "timeDay": 1535,
+    "timeWeek": 864,
+    "timeMonth": 754,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2021-03-02": 37
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 717,
-    "timeWeek": 740,
-    "timeMonth": 733,
-    "timeYear": 746,
+    "time": 745,
+    "timeDay": 608,
+    "timeWeek": 715,
+    "timeMonth": 725,
+    "timeYear": 745,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 638,
-    "timeWeek": 716,
-    "timeMonth": 713,
+    "timeDay": 710,
+    "timeWeek": 713,
+    "timeMonth": 708,
     "timeYear": 752,
     "dailyMinutesDown": {}
   },
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 744,
-    "timeDay": 616,
-    "timeWeek": 748,
-    "timeMonth": 728,
+    "timeDay": 769,
+    "timeWeek": 735,
+    "timeMonth": 724,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2021-03-02": 49
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 676,
-    "timeDay": 626,
-    "timeWeek": 702,
-    "timeMonth": 709,
-    "timeYear": 676,
+    "time": 675,
+    "timeDay": 624,
+    "timeWeek": 695,
+    "timeMonth": 702,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2021-03-02": 31
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 718,
-    "timeDay": 636,
-    "timeWeek": 736,
-    "timeMonth": 706,
-    "timeYear": 718,
+    "time": 717,
+    "timeDay": 612,
+    "timeWeek": 716,
+    "timeMonth": 699,
+    "timeYear": 717,
     "dailyMinutesDown": {}
   }
 ]
