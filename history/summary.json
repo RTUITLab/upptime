@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 712,
-    "timeDay": 732,
-    "timeWeek": 748,
-    "timeMonth": 772,
+    "timeDay": 587,
+    "timeWeek": 741,
+    "timeMonth": 770,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2021-03-02": 37
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 743,
-    "timeDay": 700,
-    "timeWeek": 760,
-    "timeMonth": 725,
-    "timeYear": 743,
+    "time": 742,
+    "timeDay": 586,
+    "timeWeek": 757,
+    "timeMonth": 722,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 603,
-    "timeWeek": 734,
-    "timeMonth": 726,
-    "timeYear": 749,
+    "time": 748,
+    "timeDay": 554,
+    "timeWeek": 730,
+    "timeMonth": 724,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 740,
-    "timeDay": 750,
-    "timeWeek": 714,
-    "timeMonth": 717,
+    "timeDay": 573,
+    "timeWeek": 712,
+    "timeMonth": 714,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2021-03-02": 49
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 678,
-    "timeDay": 802,
-    "timeWeek": 771,
-    "timeMonth": 715,
+    "timeDay": 597,
+    "timeWeek": 749,
+    "timeMonth": 709,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2021-03-02": 31
@@ -100,19 +100,20 @@
     "url": "https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups",
     "icon": "https://favicons.githubusercontent.com/schedule-rtu.rtuitlab.dev",
     "slug": "schedule",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 659,
-    "timeWeek": 704,
-    "timeMonth": 712,
-    "timeYear": 715,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "32.10%",
+    "uptimeWeek": "90.30%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "99.54%",
+    "time": 714,
+    "timeDay": 567,
+    "timeWeek": 665,
+    "timeMonth": 701,
+    "timeYear": 714,
     "dailyMinutesDown": {
-      "2021-08-23": 0
+      "2021-08-24": 61,
+      "2021-08-23": 917
     }
   }
 ]
