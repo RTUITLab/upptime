@@ -4,29 +4,55 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: VIKA
+  - name: VIKA (.dev)
     url: https://vika.rtuitlab.dev/api/about/vkgroupid
-  - name: Landing
+  - name: VIKA (.ru)
+    url: https://vika.rtuitlab.ru/api/about/vkgroupid
+
+  - name: Landing (.dev)
     url: https://rtuitlab.dev
+
   - name: ITLab
     url: https://manage.rtuitlab.dev
-  - name: Olympiad
-    url: https://olympiad.rtuitlab.dev
+
+  - name: Olympiad (.dev)
+    url: https://olympiad.rtuitlab.dev/api/about
     icon: https://olympiad.rtuitlab.dev/favicon.svg
-  - name: GeoHelper
+  - name: Olympiad (.ru)
+    url: https://olympiad.rtuitlab.ru/api/about
+    icon: https://olympiad.rtuitlab.dev/favicon.svg
+    
+  - name: GeoHelper (.dev)
     url: https://geohelper.rtuitlab.dev
     icon: https://geohelper.rtuitlab.dev/static/favicon-32x32.png
+    assignees:
+      - 0ReC0
+      - IvLaptev
+    
+  - name: GeoHelper (.ru)
+    url: https://geohelper.rtuitlab.ru
+    icon: https://geohelper.rtuitlab.ru/static/favicon-32x32.png
+    assignees:
+      - 0ReC0
+      - IvLaptev
+  
   - name: StuDo
     url: https://studo.rtuitlab.dev
     icon: https://studo.rtuitlab.dev/favicon.ico
     assignees:
       - Suput
-  - name: Schedule
+
+  - name: Schedule (.dev)
     url: https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups
+    assignees:
+      - Nekolya
+  - name: Schedule (.ru)
+    url: https://schedule-rtu.rtuitlab.ru/api/schedule/get_groups
     assignees:
       - Nekolya
 assignees: # Users to assign downtime issues (optional)
   - CAPCHIK
+  - Suput
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.rtuitlab.dev
