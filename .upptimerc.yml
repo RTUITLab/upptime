@@ -41,6 +41,12 @@ sites:
     icon: https://studo.rtuitlab.dev/favicon.ico
     assignees:
       - Suput
+  
+  - name: StuDo
+    url: https://hahaton-mirea.ru
+    icon: https://hahaton-mirea.ru/b27992b22804ff76b94a.svg
+    assignees:
+      - IvLaptev
 
   - name: Schedule (.dev)
     url: https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups
