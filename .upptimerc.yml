@@ -35,18 +35,6 @@ sites:
     assignees:
       - 0ReC0
       - IvLaptev
-  
-  - name: StuDo
-    url: https://studo.rtuitlab.dev
-    icon: https://studo.rtuitlab.dev/favicon.ico
-    assignees:
-      - Suput
-  
-  - name: Hahaton
-    url: https://hahaton-mirea.ru
-    icon: https://hahaton-mirea.ru/b27992b22804ff76b94a.svg
-    assignees:
-      - IvLaptev
 
   - name: Schedule (.dev)
     url: https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups
@@ -56,6 +44,7 @@ sites:
     url: https://schedule-rtu.rtuitlab.ru/api/schedule/get_groups
     assignees:
       - Nekolya
+ 
   - name: Cloud
     url: https://cloud.rtuitlab.dev/status.php
     assignees:
