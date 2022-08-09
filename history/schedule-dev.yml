@@ -1,7 +1,7 @@
 url: https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups
-status: down
-code: 503
-responseTime: 4598
-lastUpdated: 2022-08-09T10:34:04.635Z
+status: up
+code: 200
+responseTime: 682
+lastUpdated: 2022-08-09T10:53:45.554Z
 startTime: Mon Mar 21 2022 07:53:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
