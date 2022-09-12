@@ -6,6 +6,7 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: VIKA
     url: https://vika.mirea.ru/api/about/vkgroupid
+    __dangerous__insecure: true
 
   - name: Landing (.dev)
     url: https://rtuitlab.dev
