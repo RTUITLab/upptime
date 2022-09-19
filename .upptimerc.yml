@@ -46,10 +46,8 @@ sites:
  
   - name: Cloud
     url: https://cloud.rtuitlab.dev/status.php
-    assignees:
-      - CAPCHIK
+
 assignees: # Users to assign downtime issues (optional)
-  - CAPCHIK
   - Suput
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
