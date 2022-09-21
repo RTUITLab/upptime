@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2022-09-21": 32,
+      "2022-09-21": 236,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -237,10 +237,10 @@
     "url": "https://cloud.rtuitlab.dev/status.php",
     "icon": "https://favicons.githubusercontent.com/cloud.rtuitlab.dev",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 971,
@@ -249,6 +249,7 @@
     "timeMonth": 947,
     "timeYear": 971,
     "dailyMinutesDown": {
+      "2022-09-21": 0,
       "2022-09-18": 15
     }
   }
