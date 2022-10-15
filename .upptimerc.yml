@@ -5,7 +5,7 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: VIKA
-    url: https://d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net/upptime/vika
+    url: https://d5ddvcmphf4rj5mi4vvv.apigw.yandexcloud.net/upptime/check/vika
     __dangerous__insecure: true
 
   - name: Landing (.dev)
