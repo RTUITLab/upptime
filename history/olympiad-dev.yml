@@ -1,7 +1,7 @@
 url: https://olympiad.rtuitlab.dev/api/about
-status: up
-code: 200
-responseTime: 3886
-lastUpdated: 2022-10-25T10:56:00.508Z
+status: down
+code: 404
+responseTime: 712
+lastUpdated: 2022-10-25T11:59:03.681Z
 startTime: Mon Mar 21 2022 07:52:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
