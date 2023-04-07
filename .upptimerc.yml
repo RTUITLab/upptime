@@ -30,6 +30,15 @@ sites:
     assignees:
       - 0ReC0
       - IvLaptev
+    
+  - name: Hahaton 2023
+    url: https://hahaton-mirea.ru
+    icon: https://hahaton-mirea.ru/favicon.4ed087ee.png
+    headers:
+      - "Authorization: Bearer 2847c18192f90f05accb743aff99adf200f657f2c6626300b3138272111e00d5a4ea9da91196b1e355a837eb52320a350c68b4988c9f36f322476d435fde180cd27815ff9378b4eca08da264aafc4ad13c8c7aac0cf614d3adf5c18967009e2f22725e03dfbfadc3680aab6865a61c8fd45d1a1b6a611193380d0e6db0749401"
+      - "Content-Type: application/json"
+    assignees:
+      - IvLaptev
 
   - name: Schedule (.dev)
     url: https://schedule-rtu.rtuitlab.dev/api/schedule/get_groups
