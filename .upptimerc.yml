@@ -10,12 +10,12 @@ sites:
   - name: ITLab
     url: https://manage.rtuitlab.dev
 
-  - name: Olympiad (.dev)
-    url: https://olympiad.rtuitlab.dev/api/about
-    icon: https://olympiad.rtuitlab.dev/favicon.svg
-  - name: Olympiad (.ru)
-    url: https://olympiad.rtuitlab.ru/api/about
-    icon: https://olympiad.rtuitlab.dev/favicon.svg
+  # - name: Olympiad (.dev)
+    # url: https://olympiad.rtuitlab.dev/api/about
+    # icon: https://olympiad.rtuitlab.dev/favicon.svg
+  # - name: Olympiad (.ru)
+    # url: https://olympiad.rtuitlab.ru/api/about
+    # icon: https://olympiad.rtuitlab.dev/favicon.svg
     
   - name: GeoHelper (.dev)
     url: https://geohelper.rtuitlab.dev
