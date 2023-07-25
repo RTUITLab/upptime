@@ -21,14 +21,12 @@ sites:
     url: https://geohelper.rtuitlab.dev
     icon: https://geohelper.rtuitlab.dev/static/favicon-32x32.png
     assignees:
-      - 0ReC0
       - IvLaptev
     
   - name: GeoHelper (.ru)
     url: https://geohelper.rtuitlab.ru
     icon: https://geohelper.rtuitlab.ru/static/favicon-32x32.png
     assignees:
-      - 0ReC0
       - IvLaptev
 
   - name: Schedule (.dev)
@@ -44,7 +42,7 @@ sites:
     url: https://cloud.rtuitlab.dev/status.php
 
 assignees: # Users to assign downtime issues (optional)
-  - Suput
+  - IvLaptev
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.rtuitlab.ru
